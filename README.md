@@ -1,2 +1,2 @@
-# MNM
-Monitoring And Managment
+# MNM-JOHN
+Monitoring And Managment Playground for John
